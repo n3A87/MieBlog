@@ -1,0 +1,4 @@
+com\mie\service\impl\ArticleServiceImpl.class
+com\mie\domain\entity\Article.class
+com\mie\mapper\ArticleMapper.class
+com\mie\service\ArticleService.class
